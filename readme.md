@@ -8,6 +8,4 @@ Text-based adventure games were first popularized in the late 1970's and early 1
 
 ## Playing the Game
 
-The starter code also includes the classes `MapUNC` and `Main`, which have been commented out. Once you have finished the "jedi" portion of the assignment, these can be used to play a short treasure hunting game that uses the UNC-CH campus as a map! Feel free to play it as is, make modifications, or create an entirely new game!
-
 To play, open the `Main` class file and hit run (the small green icon next to the line numbers at the top of the class)
